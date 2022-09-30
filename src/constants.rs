@@ -1,4 +1,4 @@
-pub const CREATOR_ACCOUNT_ID: u32 = 3;
+pub const CREATOR_ACCOUNT_ID: u32 = 1;
 pub const CHAIN_ID: u64 = 1;
 
 pub const META_VALIDATOR_SCRIPT_TYPE_HASH: [u8; 32] = [0xa1u8; 32];
